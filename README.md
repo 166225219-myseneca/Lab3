@@ -1,7 +1,8 @@
 # Lab 3 repository
 
 A function that will write a text file to your PC with your name.
-```def write_text_file_with_name():
+```
+def write_text_file_with_name():
     name = input("Enter your name: ")
     file_name = "my_name.txt"
     
